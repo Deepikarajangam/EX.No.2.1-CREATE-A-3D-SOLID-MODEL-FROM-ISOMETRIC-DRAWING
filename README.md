@@ -1,4 +1,4 @@
-![exp2 1](https://github.com/user-attachments/assets/726b25dc-4b0a-47db-a5dc-846f6ecaf671)
+
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:
 
